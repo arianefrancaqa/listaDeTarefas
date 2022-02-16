@@ -1,6 +1,6 @@
 # Lista De Tarefas 📝
 
-## Bem vinda prof Taynara Dutra à minha lista de tarefas ✨! 
+## Bem vinda Prof Taynara Dutra à minha lista de tarefas ✨! 
 
 ### Como acessar:
  - 📌 Instale a extensão Live Server;
